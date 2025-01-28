@@ -1,5 +1,3 @@
----
-
 # Amigo Secreto
 
 Um jogo simples e divertido para sortear um amigo secreto! 🎉
