@@ -33,6 +33,6 @@ O projeto está **concluído** e pronto para uso.
 
 ## 🤝 Contribuições
 
-Contribuições são bem-vindas! Caso tenha sugestões ou melhorias, sinta-se à vontade para abrir uma [issue](https://github.com/seu-usuario/amigo-secreto/issues) ou enviar um pull request.
+Contribuições são bem-vindas! Caso tenha sugestões ou melhorias, sinta-se à vontade para abrir uma [issue](https://github.com/LuisAugustoDev/One-Challenge/issues) ou enviar um pull request.
 
 ---
