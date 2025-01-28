@@ -22,13 +22,13 @@ O projeto está **concluído** e pronto para uso.
    ```bash
    git clone https://github.com/LuisAugustoDev/One-Challenge.git
    ```
-   ou acesse esse site:
+2. Abra o arquivo `index.html` em qualquer navegador de sua preferência.  
+3. Insira os nomes dos participantes.  
+4. Clique no botão de sorteio para descobrir o amigo secreto!
+5. ou acesse esse site:
    ```bash
    https://luisaugustodev.github.io/One-Challenge/
    ```
-3. Abra o arquivo `index.html` em qualquer navegador de sua preferência.  
-4. Insira os nomes dos participantes.  
-5. Clique no botão de sorteio para descobrir o amigo secreto!  
 
 ## 🎮 Funcionalidades
 
