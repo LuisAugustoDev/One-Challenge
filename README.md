@@ -20,7 +20,7 @@ O projeto está **concluído** e pronto para uso.
 
 1. Faça o download ou clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/LuisAugustoDev/One-Challenge.git
    ```
 2. Abra o arquivo `index.html` em qualquer navegador de sua preferência.  
 3. Insira os nomes dos participantes.  
